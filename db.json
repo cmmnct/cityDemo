@@ -1,4 +1,8 @@
+{
+"cities":
 [{ "id" : 1, "name" : "Groningen", "province" : "GR"},
       { "id" : 2, "name" : "Zwolle", "province" : "OV"},
       { "id": 3, "name": "Kopenhagen", "province": "DK" },
-      { "id" : 4, "name" : "Harderwijk", "province" : "GLD"}]
+      { "id" : 4, "name" : "Harderwijk", "province" : "GLD"}
+]
+}
